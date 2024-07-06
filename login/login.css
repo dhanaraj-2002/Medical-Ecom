@@ -1,0 +1,44 @@
+*
+{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+}
+.container
+{
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    /* background-image:url(./login\ image.jpg); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.L1
+{
+background-color: aqua;
+width: 330px;
+height: 400px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.button 
+ { 
+    background-color: rgb(178, 212, 84);
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    margin-left: 47px;
+}
+.box
+{
+    background-color: rgb(125, 224, 231);
+    width: 250px;
+    height: 40px;
+
+}
+.login
+{
+    margin-left: 75px;
+}
